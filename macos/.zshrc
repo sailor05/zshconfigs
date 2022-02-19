@@ -1,7 +1,7 @@
 #Alex's Configuration
 
 #Windows/MS-DOS compatibility
-alias dir='ls'
+alias dir='ls -G'
 alias copy='cp'
 alias move='mv'
 
